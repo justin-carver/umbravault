@@ -1,0 +1,18 @@
+{
+	"name": "umbravault",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/justin-carver/umbravault",
+	"author": "Justin Carver <justin.carver@hotmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"inquirer": "^9.1.4",
+		"inquirer-autocomplete-prompt": "^3.0.0",
+		"mongoose": "^6.9.2"
+	},
+	"type": "module",
+	"scripts": {
+		"dev": "node index.js"
+	}
+}
